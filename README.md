@@ -69,15 +69,7 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 
 ---
-## :iphone: Screenshots
 
-
-
-<img src="assests/image1.png"/>
-<img src="assests/image2.png"/>
-<img src="assests/image3.png"/>
-<img src="assests/image4.png"/>
-<img src="assests/image5.png"/>
 
 ---
 
